@@ -1,0 +1,2 @@
+os debian12, python 3.11
+server
